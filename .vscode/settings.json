@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "focusBorder": "#10fb7a",
+        "activityBar.background": "#510361",
+        "titleBar.activeBackground": "#710587",
+        "titleBar.activeForeground": "#FEFBFF"
+    },
+    "editor.fontSize": 18
+}
